@@ -23,6 +23,8 @@ Please see more on the following..
 https://itnext.io/lets-learn-how-to-to-build-a-chat-application-with-redis-websocket-and-go-7995b5c7b5e5
 
 Git Ignore
+
+
 touch .gitignore && echo "node_modules/" >> .gitignore && git rm -r --cached node_modules ; git status
 
 
